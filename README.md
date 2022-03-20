@@ -24,12 +24,14 @@
 </p>
 
 <p align="center">
-  <img alt="Aura Dracula Spirit screenshot for Visual Studio Code" src="./.github/1.png">
+  <img alt="Aura Dracula Spirit screenshot for Visual Studio Code" src="https://i.imgur.com/mZNBVW6.png" />
 </p>
 
 ## Install
 
-All instructions can be found at [INSTALL.md](./INSTALL.md).
+All instructions can be found at [INSTALL.md](./INSTALL.md) 
+*for verify somes screenshots of code click here* [Screenshots](./screenshots)
+
 
 ## Preferences shown in the preview
 
@@ -46,7 +48,7 @@ The font in the preview image is Fira Code IScript, [available here](https://dan
 ## Team
 
 This theme is heavily inspired by [Aura Theme from Dalton Menezes](https://github.com/daltonmenezes/aura-theme) and [Dracula from Zeno Rocha](https://github.com/dracula/visual-studio-code).
-It is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/guilhermerodz/aura-spirit-dracula/graphs/contributors).
+It is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/josemurilloc/aura-spirit-dracula/graphs/contributors).
 
 | [![José Murillo](https://github.com/josemurilloc.png?size=100)](https://github.com/josemurilloc) |
 | ---------------------------------------------------------------------------------------------------- |
@@ -54,8 +56,7 @@ It is maintained by the following person(s) and a bunch of [awesome contributors
 
 ## Disclaimer
 
-This theme is heavily inspired by [Omni from Rocketseat](https://github.com/getomni/visual-studio-code).
-The italics are inspired by [Night Owl from Sarah Drasner](https://github.com/sdras/night-owl-vscode-theme).
+This theme is heavily inspired by [Dracula](https://github.com/dracula/visual-studio-code).
 
 ## License
 

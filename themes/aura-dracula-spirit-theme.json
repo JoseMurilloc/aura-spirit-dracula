@@ -145,7 +145,8 @@
     "peekViewTitleLabel.foreground": "#a277ff",
     "peekViewEditorGutter.background": "#140e1a",
     "textLink.foreground": "#a277ff",
-    "textLink.activeForeground": "#8F5BFF"
+    "textLink.activeForeground": "#8F5BFF",
+    "statusBar.noFolderBackground": "#100b15"
   },
   "tokenColors": [
     {
