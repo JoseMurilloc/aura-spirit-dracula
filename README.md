@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./.github/vscode.png" alt="Aura Dracula Spirit Logo" width="100">
+  <img src="./logo.png" alt="Aura Dracula Spirit Logo" width="100">
   <br>
   Aura Dracula Spirit for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
