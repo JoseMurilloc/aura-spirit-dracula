@@ -1,5 +1,5 @@
 {
-  "name": "aura-theme",
+  "name": "aura-spirit-dracula",
   "displayName": "Aura Spirit Dracula Theme",
   "description": "A beautiful dark theme for Visual Studio Code",
   "version": "0.0.5",
@@ -27,7 +27,8 @@
   "keywords": [
     "theme",
     "dark",
-    "aura-theme",
+    "aura-spirit-dracula",
+    "aura",
     "dracula",
     "spirit",
     "color-theme"
@@ -43,9 +44,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/daltonmenezes/aura-theme.git"
+    "url": "https://github.com/josemurilloc/aura-spirit-dracula.git"
   },
   "bugs": {
-    "url": "https://github.com/daltonmenezes/aura-theme/issues"
+    "url": "https://github.com/josemurilloc/aura-spirit-dracula/issues"
   }
 }
