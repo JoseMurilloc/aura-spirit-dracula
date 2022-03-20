@@ -143,7 +143,9 @@
     "peekView.border": "#0B080E",
     "peekViewTitleDescription.foreground": "#FFF4E5",
     "peekViewTitleLabel.foreground": "#a277ff",
-    "peekViewEditorGutter.background": "#140e1a"
+    "peekViewEditorGutter.background": "#140e1a",
+    "textLink.foreground": "#a277ff",
+    "textLink.activeForeground": "#8F5BFF"
   },
   "tokenColors": [
     {
