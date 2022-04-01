@@ -56,7 +56,7 @@ It is maintained by the following person(s) and a bunch of [awesome contributors
 
 ## Disclaimer
 
-This theme is heavily inspired by [Dracula](https://github.com/dracula/visual-studio-code).
+This theme is heavily inspired by [Aura Theme](https://github.com/daltonmenezes/aura-theme).
 
 ## License
 
