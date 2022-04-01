@@ -367,7 +367,6 @@
     {
       "name": "Italics",
       "scope": [
-        "meta.type.parameters",
         "meta.return.type",
         "entity.name.type.interface",
         "meta.type.annotation",
