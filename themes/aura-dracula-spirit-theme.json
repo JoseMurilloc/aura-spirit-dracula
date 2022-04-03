@@ -168,7 +168,6 @@
         "storage.modifier.async"
       ],
       "settings": {
-        "fontStyle": "italic bold",
         "foreground": "#f694ff"
       }
     }, 
