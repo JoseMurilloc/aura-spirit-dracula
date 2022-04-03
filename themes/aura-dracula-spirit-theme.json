@@ -2,6 +2,8 @@
   "name": "Aura Dracula Spirit",
   "type": "dark",
   "colors": {
+    "list.errorForeground": "#ff6767",
+    "list.warningForeground": "#ffca85",
     "focusBorder": "#a394f033",
     "foreground": "#ffffff",
     "errorForeground": "#ff6767",
