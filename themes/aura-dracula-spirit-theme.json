@@ -199,7 +199,6 @@
         "keyword.operator.expression.instanceof.tsx"
       ],
       "settings": {
-        "fontStyle": "italic bold",
         "foreground": "#f694ff"
       }
     },
