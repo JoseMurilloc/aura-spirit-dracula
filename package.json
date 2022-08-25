@@ -2,7 +2,7 @@
   "name": "aura-spirit-dracula",
   "displayName": "Aura Spirit Dracula Theme",
   "description": "A beautiful dark theme for Visual Studio Code",
-  "version": "0.1.5",
+  "version": "0.1.10",
   "scripts": {
     "publish": "vsce publish"
   },
@@ -44,6 +44,11 @@
         "label": "Aura Dracula Spirit (Soft)",
         "uiTheme": "vs-dark",
         "path": "./themes/aura-dracula-spirit-soft-theme.json"
+      },
+      {
+        "label": "Aura Dracula Spirit (Synthwave)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-dracula-spirit-synthwave-theme.json"
       }
     ]
   },
