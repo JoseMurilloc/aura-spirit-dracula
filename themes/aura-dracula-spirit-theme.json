@@ -78,12 +78,12 @@
     "editorHoverWidget.border": "#f694ff81",
     "editorGroup.border": "#000000",
     "editorGroup.dropBackground": "#3d375e7f",
-    "editorGroupHeader.tabsBackground": "#100b15",
+    "editorGroupHeader.tabsBackground": "#191120",
     "editorGroupHeader.tabsBorder": "#000000",
     "tab.activeBackground": "#100b15",
     "tab.activeForeground": "#61ffca",
     "tab.border": "#111111",
-    "tab.inactiveBackground": "#100b15",
+    "tab.inactiveBackground": "#191120",
     "tab.inactiveForeground": "#6d6d6d",
     "tab.activeBorderTop": "#61ffca",
     "panel.border": "#f694ff81",
@@ -91,14 +91,14 @@
     "panelTitle.activeForeground": "#cdccce",
     "activityBar.background": "#140e1a",
     "activityBar.foreground": "#a277ff",
-    "activityBar.inactiveForeground": "#2a252e",
+    "activityBar.inactiveForeground": "#776882",
     "activityBar.border": "#000000",
     "activityBarBadge.background": "#f694ff",
     "activityBarBadge.foreground": "#140E1A",
     "activityBar.activeBorder": "#a277ff",
     "badge.foreground": "#140E1A",
     "badge.background": "#a277ff",
-    "sideBar.background": "#100B15",
+    "sideBar.background": "#191120",
     "sideBar.foreground": "#cdccce",
     "sideBar.border": "#000000",
     "sideBarTitle.foreground": "#adacae",
@@ -154,6 +154,17 @@
   "tokenColors": [
     {
       "scope": [
+        "support.type.property-name.css",
+        "meta.property-name.scss",
+        "source.css.scss"
+      ],
+      "settings": {
+        "foreground": "#a277ff",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
         "keyword.operator.comparison",
         "keyword.control.loop.js",
         "keyword.control.loop.ts",
@@ -196,6 +207,7 @@
         "keyword.control.export",
         "keyword.operator.instanceof.js",
         "keyword.operator.expression.instanceof.ts",
+        "entity.name.tag",
         "keyword.operator.expression.instanceof.tsx"
       ],
       "settings": {
@@ -208,7 +220,6 @@
         "keyword",
         "storage",
         "support",
-        "entity.name.tag",
         "variable.language",
         "keyword.control.flow",
         "storage.modifier",
@@ -291,7 +302,6 @@
         "variable.other.object.property",
         "variable.other.constant.property",
         "meta.type.annotation",
-        "support.type.property-name.css",
         "support.type.vendored",
         "constant.language.symbol.elixir",
         "variable.graphql",
