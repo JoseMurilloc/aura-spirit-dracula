@@ -165,6 +165,7 @@
     },
     {
       "scope": [
+        "keyword.other.unit.px.css",
         "keyword.operator.comparison",
         "keyword.control.loop.js",
         "keyword.control.loop.ts",

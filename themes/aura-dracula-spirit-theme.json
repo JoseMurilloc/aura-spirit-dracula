@@ -207,7 +207,6 @@
         "keyword.control.export",
         "keyword.operator.instanceof.js",
         "keyword.operator.expression.instanceof.ts",
-        "entity.name.tag",
         "keyword.operator.expression.instanceof.tsx"
       ],
       "settings": {
@@ -236,7 +235,8 @@
         "punctuation.definition.quote.begin.markdown",
         "punctuation.definition.raw.markdown",
         "constant.length.units.css",
-        "constant.percentage.units.css"
+        "constant.percentage.units.css",
+        "entity.name.tag.html"
       ],
       "settings": {
         "foreground": "#a277ff"
