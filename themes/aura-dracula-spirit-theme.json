@@ -236,7 +236,7 @@
         "punctuation.definition.raw.markdown",
         "constant.length.units.css",
         "constant.percentage.units.css",
-        "entity.name.tag.html"
+        "entity.name.tag"
       ],
       "settings": {
         "foreground": "#a277ff"
